@@ -1,11 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  <url>
-    <loc>http://localhost:36650/categories/</loc>
-  </url><url>
-    <loc>http://localhost:36650/</loc>
-  </url><url>
-    <loc>http://localhost:36650/tags/</loc>
-  </url>
+  
+    <url>
+      <loc>http://localhost:36650/blog/creating-a-new-theme/</loc>
+      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>http://localhost:36650/blog/migrate-from-jekyll/</loc>
+      <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>http://localhost:36650/about/</loc>
+      <lastmod>2017-06-27T17:39:21-07:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>http://localhost:36650/blog/goisforlovers/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+  
+    <url>
+      <loc>http://localhost:36650/blog/hugoisforlovers/</loc>
+      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    </url>
+  
 </urlset>
