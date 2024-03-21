@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://dweb.home'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'D-Web.net'
 theme = 'osprey'
