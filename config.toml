@@ -25,9 +25,9 @@ googleTagManger = ""
 customCSS = false
 
 # Social media links in footer
-twitter = "TomaNistor"
-linkedin = "tomanistor"
-github = "tomanistor"
+twitter = "dwebtechsa"
+linkedin = "d-webtechnologies"
+github = "d-web-net"
 facebook = ""
 
 # Copyright and theme author credit in footer
@@ -46,7 +46,7 @@ highlightJSScript = "" # For custom highlight.js languages config, add your /pat
 # Choose either Formspree contact form or Basin contact form
 ajaxFormspree = false
 ajaxFormspreeGold = false
-ajaxBasin = "https://usebasin.com/f/0eae7044d4c2"
+ajaxBasin = "https://usebasin.com/f/ef92294fe619"
 
 # Lazy loading with lazysizes
 lazyloading = true
