@@ -15,3 +15,5 @@ fast-growing segment of the tech industry with an enormous variety of use cases.
 These uses include NFTs, smart devices, financial technology, decentralized
 applications (D-apps), and many more. We implement and educate the market with
 economically viable applications of decentralized web technologies.
+
+# Projects and Partners
