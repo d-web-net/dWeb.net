@@ -4,6 +4,6 @@ title = "Let us host your next novel project!"
 image = "Hosting.png"
 alt = "Datacenter Hosting"
 color = "#F7F7F7"
-link1 = "https://dweb.home/#contact"
+link1 = "https://dweb.home/contact"
 
 +++

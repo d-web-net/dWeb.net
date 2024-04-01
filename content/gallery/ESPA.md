@@ -4,7 +4,6 @@ title = "Enterprise Storage Provider Association"
 image = "ESPA.png"
 alt = "ESPA"
 color = "#F7F7F7"
-link1 = "https://tomanistor.com"
-link2 = "https://github.com/tomanistor/tomanistor.com"
+link2 = "https://www.web3espa.io/"
 
 +++
