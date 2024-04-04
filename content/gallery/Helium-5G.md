@@ -4,7 +4,6 @@ title = "Helium Mobile"
 image = "mobile.png"
 alt = "Mobile"
 color = "#F7F7F7"
-link1 = "https://tomanistor.com"
-link2 = "https://github.com/tomanistor/tomanistor.com"
+link2 = "https://hellohelium.com/"
 
 +++

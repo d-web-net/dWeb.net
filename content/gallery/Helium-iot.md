@@ -4,7 +4,6 @@ title = "Helium IoT"
 image = "iot.png"
 alt = "IoT Hosting"
 color = "#F7F7F7"
-link1 = "https://tomanistor.com"
-link2 = "https://github.com/tomanistor/tomanistor.com"
+link2 = "https://www.helium.com/lorawan"
 
 +++
