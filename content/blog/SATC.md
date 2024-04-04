@@ -35,6 +35,6 @@ Join us at Decentralized Web Technologies Inc. in the San Antonio Technology Cen
 
 For inquiries and more details, please reach out to us using the link below.
 
-[**Contact Us!**](https://dweb.home/#contact)
+[**Contact Us!**](https://dweb.net/#contact)
 
 _Decentralized Web Technologies Inc. – Pioneering solutions for the decentralized world._

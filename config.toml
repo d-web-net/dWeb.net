@@ -1,5 +1,5 @@
 title = "D-Web.net"
-baseURL = "https://dweb.home"
+baseURL = "https://dweb.net"
 tags = ["blockchain", "deepin", "infrastructure"]
 languageCode = "en-US"
 config = "config.toml"
