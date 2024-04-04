@@ -23,7 +23,7 @@ To run a local version of our site:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/dweb.net.git
+   git clone https://github.com/dwebmm/dWeb.net.git
    ```
 
 2. **Navigate to the Repository**
@@ -35,7 +35,7 @@ To run a local version of our site:
 3. **Run Hugo Server**
 
    ```bash
-   hugo server
+   hugo server -D --renderToMemory
    ```
 
    Visit `http://localhost:1313` to view the site.
