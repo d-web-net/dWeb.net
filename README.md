@@ -32,7 +32,7 @@ To run a local version of our site:
    cd dWeb.net
    ```
 
-4. **Pull theme repo**
+4. **Update Theme Repo**
 
    ```bash
    git submodule update --init --recursive --remote
