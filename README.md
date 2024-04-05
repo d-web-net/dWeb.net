@@ -32,7 +32,14 @@ To run a local version of our site:
    cd dWeb.net
    ```
 
-3. **Run Hugo Server**
+4. **Pull theme repo**
+
+   ```bash
+   git submodule update --init --recursive --remote
+   ```
+
+
+5. **Run Hugo Server**
 
    ```bash
    hugo server -D --renderToMemory
