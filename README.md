@@ -29,7 +29,7 @@ To run a local version of our site:
 2. **Navigate to the Repository**
 
    ```bash
-   cd dweb.net
+   cd dWeb.net
    ```
 
 3. **Run Hugo Server**
