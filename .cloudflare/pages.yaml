@@ -6,7 +6,7 @@ setup:
     submodules: true
 
 build:
-  command: hugo --minify
+  command: "HUGO_VERSION=0.92.2 hugo --minify"
   output_dir: public
   environment:
     HUGO_VERSION: 0.92.2  # Use an older version that has the template 

@@ -1,1 +1,2 @@
 baseURL: "/"  # This will work with Cloudflare Pages 
+googleAnalytics: ""  # Empty string to disable Google Analytics 
