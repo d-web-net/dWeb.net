@@ -9,4 +9,4 @@ build:
   command: hugo --minify
   output_dir: public
   environment:
-    HUGO_VERSION: 0.120.4  # Specify your Hugo version here 
+    HUGO_VERSION: 0.92.2  # Use an older version that has the template 
