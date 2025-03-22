@@ -1,0 +1,12 @@
+# Configure your Pages project
+setup:
+  git:
+    # Ensure submodules are checked out
+    clone: true
+    submodules: true
+
+build:
+  command: hugo --minify
+  output_dir: public
+  environment:
+    HUGO_VERSION: 0.120.4  # Specify your Hugo version here 

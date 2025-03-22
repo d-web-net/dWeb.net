@@ -1,0 +1,9 @@
+name = "dweb.net"
+compatibility_date = "2025-03-22"
+
+[build]
+command = "git submodule update --init --recursive && hugo --minify"
+output_dir = "public"
+
+[site]
+bucket = "./public" 

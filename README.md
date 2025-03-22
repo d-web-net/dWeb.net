@@ -68,3 +68,23 @@ For any feedback or issues, please open an issue in this repository.
 This project is licensed under the Apache License, Version 2.0. See the [LICENSE](LICENSE) file in this repository for the full text.
 
 Thank you for visiting DWeb.net!
+
+# Your Hugo Site
+
+## Deployment
+
+This site is configured for deployment with Cloudflare Pages.
+
+### Automatic Deployment
+1. Push changes to the main branch
+2. Cloudflare Pages will automatically build and deploy the site
+
+### Manual Deployment
+1. Install the Wrangler CLI: `npm install -g wrangler`
+2. Login to Cloudflare: `wrangler login`
+3. Deploy: `wrangler pages deploy public`
+
+### Local Development
+1. Clone the repository: `git clone --recursive [repository-url]`
+2. Install Hugo: [https://gohugo.io/installation/](https://gohugo.io/installation/)
+3. Run the development server: `hugo server -D`
